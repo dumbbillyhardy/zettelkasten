@@ -1,0 +1,3 @@
+Lead Climbing
+
+Lead climbing has a similar setup to [[202301182046 Top Roping]], but instead of the rope going all the way up to the anchors at the beginning, it instead starts out going directly from the climber to the belayer. As the climber climbs up, they thread the rope through [[202301182144 Quickdraws]]
