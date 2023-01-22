@@ -1,4 +1,4 @@
-Free Soloing is for idiots
+# Free Soloing is for idiots
 
 [[202301182015 Free Soloing]] can easily be fatal. If you are doing this you are definitely an idiot.
 

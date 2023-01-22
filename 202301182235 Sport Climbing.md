@@ -1,3 +1,3 @@
-Sport Climbing
+# Sport Climbing
 
 Sport climbing is a type of [[202301182112 Lead Climbing]] that has bolts along the route to clip [[202301182144 Quickdraws]] into for protection as one climbs up. Contrasting to [[202301182232 Trad Climbing]], sport climbing is faster since you do not have to set protection to clip into and is safer because bolts are stronger than the set protection. Given that, climbers can typically climb more challenging routes than when they trad climb.

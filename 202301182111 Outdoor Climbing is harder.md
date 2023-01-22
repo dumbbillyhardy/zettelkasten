@@ -1,4 +1,4 @@
-Outdoor Climbing is harder than indoor
+# Outdoor Climbing is harder than indoor
 
 Through a combination of 
 - [[202301182305 Route Finding]]

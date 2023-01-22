@@ -1,4 +1,4 @@
-Climbing Route
+# Climbing Route
 
 A climbing route is a relatively long section for climbing that is typically climbed by [[202301182046 Top Roping]], [[202301182235 Sport Climbing]], [[202301182232 Trad Climbing]], or [[202301182015 Free Soloing]]. The definition of long is up for debate, but 40ft or more usually qualifies without argument.
 
